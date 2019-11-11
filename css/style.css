@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    height: 710px ;
+}
+
+#countdown {
+	text-align:center; 
+	font-size:3em; 
+	color:#000;
+	height: 100px;
+}
